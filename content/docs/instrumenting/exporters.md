@@ -154,6 +154,7 @@ wide variety of JVM-based applications, for example [Kafka](http://kafka.apache.
    * [Rancher exporter](https://github.com/infinityworksltd/prometheus-rancher-exporter)
    * [Speedtest exporter](https://github.com/nlamirault/speedtest_exporter)
    * [Tankerkönig API Exporter](https://github.com/lukasmalkmus/tankerkoenig_exporter)
+   * [Prometheus Weathermen (multi API weather exporter)](https://github.com/lstrojny/prometheus-weathermen)
 
 ### Logging
    * [Fluentd exporter](https://github.com/V3ckt0r/fluentd_exporter)
@@ -210,6 +211,7 @@ wide variety of JVM-based applications, for example [Kafka](http://kafka.apache.
    * [eBPF exporter](https://github.com/cloudflare/ebpf_exporter)
    * [Ethereum Client exporter](https://github.com/31z4/ethereum-prometheus-exporter)
    * [JFrog Artifactory Exporter](https://github.com/peimanja/artifactory_exporter)
+   * [Homebridge Prometheus Exporter](https://github.com/lstrojny/homebridge-prometheus-exporter)
    * [Hostapd Exporter](https://github.com/Fundacio-i2CAT/hostapd_prometheus_exporter)
    * [IRCd exporter](https://github.com/dgl/ircd_exporter)
    * [Linux HA ClusterLabs exporter](https://github.com/ClusterLabs/ha_cluster_exporter)
